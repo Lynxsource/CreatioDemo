@@ -1,0 +1,17 @@
+{
+  "Descriptor": {
+    "UId": "7dd31c41-6fed-40dc-80ea-e4b564a26cca",
+    "PackageVersion": "7.8.0",
+    "Name": "Training",
+    "ModifiedOnUtc": "/Date(1621515180000)/",
+    "Maintainer": "Customer",
+    "Description": "this is a description",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
